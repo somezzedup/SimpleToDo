@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 At first there was a challenge in getting the android environment set up but after doing additional research myself I was able to get the emulator running.
-Overall, I felt there were not much challenges encountered while building the app because the walk through was clear and precise. 
+Overall, I felt there were not much challenges encountered while building the app because the walk through was clear and precise. A valuable learning experience overall.
 
 ## License
 
