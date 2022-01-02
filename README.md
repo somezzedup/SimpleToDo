@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![simpleToDoApp](https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
