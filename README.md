@@ -26,8 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![simpleToDoApp](https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -42,7 +40,7 @@ Overall, I felt there were not much challenges encountered while building the ap
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Mezbahuddin Prottoy]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
